@@ -1,0 +1,478 @@
+{ 
+    "name" : "Shivam Patil", 
+    "full_name": "Shivam Hambirrao Patil", 
+    "open_to_work": false,
+    "about_me": [ 
+        "Hi, I'm Shivam — an AI and Python developer. I enjoy working across Machine Learning, Generative AI, backend development, and automation to solve practical problems.", 
+        "My interests include working with Data Science, Computer Vision, NLP, LLM applications, and scalable AI systems.", 
+        "I love experimenting with new technologies, building end-to-end products, and continuously learning through projects and research." 
+    ], 
+    "profile_image":null, 
+    "tagline": "AI Engineer | Data Analyst | Backend Developer | Building Intelligent Systems", 
+    "stats":{ 
+        "projects": 4, 
+        "certificates": 5, 
+        "internships": 2, 
+        "cgpa": 9.55 
+    }, 
+    "address" : { 
+        "current": "Mumbai, Maharashtra", 
+        "permanent": "Kolhapur, Maharashtra" 
+    }, 
+    "contact":{ 
+        "mobile": 8055276978, 
+        "email": "shivampatil3804@gmail.com", 
+        "linkedin":"https://linkedin.com/in/shivam-patil-915202283", 
+        "github":"https://www.github.com/Shivam3804" 
+    }, 
+    "education" : { 
+        "ssc":{ 
+            "name": "Castle View Academy", 
+            "location": "Gargoti, Kolhapur, Maharashtra", 
+            "board": "Maharashtra State Board", 
+            "branch/stream": null, 
+            "score-type": "Percentage", 
+            "score": 93.40 
+        }, 
+        "hsc":{ 
+            "name": "Shri. P. B. Patil Junior College", 
+            "location": "Mudal, Kolhapur, Maharashtra", 
+            "board": "Maharashtra State Board", 
+            "branch/stream": null, 
+            "score-type": "Percentage", 
+            "score": 85.67 
+        }, 
+        "bachelors":{ 
+            "name": "MET's Institute of Engineering", 
+            "location": "Nashik, Maharashtra", 
+            "board": "Savitribai Phule Pune University", 
+            "branch/stream": "B.E. (Artificial Intelligence and Data Science)", 
+            "score-type": "CGPA", 
+            "score": 9.55 
+        }
+    }, 
+    "skills": { 
+        "featured": [ 
+            "Python", 
+            "FastAPI", 
+            "PostgreSQL",
+            "Machine Learning" ,
+            "Deep Learning",
+            "LLM Applications", 
+            "RAG", 
+            "Computer Vision", 
+            "NLP"
+        ], 
+        "technical": { 
+            "programming_languages": [ 
+                "Python", 
+                "JavaScript", 
+                "C", 
+                "C++" 
+            ], 
+            "databases": [ 
+                "MySQL", 
+                "PostgreSQL", 
+                "Firestore", 
+                "Supabase" 
+            ], 
+            "frameworks_libraries": [ 
+                "TensorFlow", 
+                "Keras", 
+                "Scikit-learn", 
+                "Flask", 
+                "FastAPI", 
+                "LangChain", 
+                "SentenceTransformers", 
+                "Ultralytics" 
+            ], 
+            "data_ai": [ 
+                "Machine Learning", 
+                "Deep Learning", 
+                "NLP", 
+                "EDA", 
+                "Feature Engineering", 
+                "LLM", 
+                "FAISS", 
+                "RAG" 
+            ], 
+            "tools_platforms": [ 
+                "Git", 
+                "GitHub", 
+                "Power BI", 
+                "Google Colab", 
+                "Jupyter Notebook", 
+                "Arduino IDE" 
+            ] 
+        }, 
+        "soft_skills": [ 
+            "Problem Solving", 
+            "Teamwork", 
+            "Communication" 
+        ], 
+        "languages_spoken": [ 
+            "English", 
+            "Hindi", 
+            "Marathi" 
+        ] 
+    }, 
+    "experience": [ 
+        { 
+            "company": "BharatNXT", 
+            "location": "Mumbai, Maharashtra", 
+            "roles": [ 
+                { 
+                    "title": "Tech Intern", 
+                    "start_date": "2026-01", 
+                    "end_date": "2026-06", 
+                    "skills": [ 
+                        "Python", 
+                        "FastAPI", 
+                        "LLM", 
+                        "Machine Learning", 
+                        "Generative AI", 
+                        "Firestore", 
+                        "Vector Databases", 
+                        "JavaScript" 
+                    ], 
+                    "details": [ 
+                        "Worked with integrating the AI features into the application: BharatNXT",
+                        "Developed backend services using Python FastAPI and JavaScript", 
+                        "Contributed to OLAP architecture approach using AWS Redshift", 
+                        "Worked on the AI chatbot 'NXTAssistant' for the BharatNXT platform", 
+                        "Built and orchestrated flows for card search, spend optimization, and upgrade recommendations", 
+                        "Improved response latency using batch queries and asynchronous processing", 
+                        "Implemented RAG-based retrieval for relevant card recommendations" 
+                    ]
+                } 
+            ] 
+        }, 
+        { 
+            "company": "Raybot Automations Pvt. Ltd.", 
+            "location": "Nashik, Maharashtra", 
+            "roles": [ 
+                { 
+                    "title": "Robotics Intern", 
+                    "start_date": "2024-12", 
+                    "end_date": "2025-01", 
+                    "skills": [ 
+                        "Arduino", 
+                        "ESP32", 
+                        "Sensors", 
+                        "3D Printing", 
+                        "Robotics" 
+                    ], 
+                    "details": [ 
+                        "Worked with the processors and their logic programming in C",
+                        "Built prototypes including smoke detectors, alcohol detectors, line-following robots, and robotic arms", 
+                        "Led a team of interns during event execution and task coordination", 
+                        "Worked with Arduino, ESP32, sensors, and 3D printing technologies" 
+                    ] 
+                } 
+            ] 
+        } 
+    ], 
+    "projects": [ 
+        { 
+            "id": "urbanfix", 
+            "featured": true, 
+            "name": "UrbanFix", 
+            "category": "AI Smart City Platform", 
+            "status": "Completed", 
+            "skills_stack": [ 
+                "Python", 
+                "FastAPI", 
+                "Machine Learning", 
+                "Automation", 
+                "Ultralytics YOLOv8", 
+                "SentenceTransformers", 
+                "OpenCLIP", 
+                "ReactJS", 
+                "React Native", 
+                "JWT Authentication", 
+                "Supabase" 
+            ], 
+            "description": "Built a web and mobile AI-powered citizen grievance platform that automates issue detection, complaint routing, prioritization, and duplicate complaint detection.", 
+            "features": [ 
+                "Web and Mobile Applications", 
+                "AI-based Grievance Classification", 
+                "Automated Department Routing", 
+                "Priority Assignment", 
+                "Duplicate Complaint Detection", 
+                "Custom Dataset Training" 
+            ], 
+            "dataset": [ 
+                "Custom dataset collected from multiple public sources and Roboflow"
+            ], 
+            "metrics": [ 
+                { 
+                    "name": "YOLOv8 mAP", 
+                    "value": "76.34%" 
+                }, 
+                { 
+                    "name": "MiniLM Classification Accuracy", 
+                    "value": "69.34%" 
+                } 
+            ], 
+            "details": [ 
+                "Developed as a final year B.E. project", 
+                "Collected and curated datasets for multiple civic issue categories", 
+                "Trained YOLOv8 models for issue detection and classification", 
+                "Used Sentence Transformers (Paraphrase-MiniLM) for department prediction", 
+                "Implemented duplicate complaint detection using OpenCLIP embeddings and similarity matching", 
+                "Built an end-to-end web platform using ReactJS", 
+                "Developed and tested the mobile application using React Native and Expo", 
+                "Implemented JWT-based authentication and backend APIs using FastAPI" 
+            ], 
+            "links": { 
+                "github": null, 
+                "demo": null, 
+                "report": null 
+            }, 
+            "deployment": { 
+                "frontend": null, 
+                "backend": null, 
+                "database": null, 
+                "hosting": null 
+            } 
+        }, 
+        { 
+            "id":"face-mask", 
+            "featured": true, 
+            "name": "Face Mask Detection", 
+            "category": "Computer Vision", 
+            "status": "Completed", 
+            "skills_stack": [ 
+                "Python", 
+                "Ultralytics YOLOv8", 
+                "OpenCV",
+                "Google Colab", 
+                "Roboflow" 
+            ], 
+            "description": "Built a custom object detection system to classify faces as 'Mask' or 'No Mask' using YOLOv8.", 
+            "features": [ 
+                "Real-time webcam detection", 
+                "Image upload prediction", 
+                "Custom dataset training", 
+                "Object detection pipeline" 
+            ], 
+            "dataset": [ 
+                "Roboflow Dataset" 
+            ], 
+            "metrics": [ 
+                { 
+                    "name": "mAP_accuracy", 
+                    "value": "93.5%" 
+                } 
+            ], 
+            "details": [ 
+                "Trained and evaluated YOLOv8 model on Google Colab", 
+                "Integrated OpenCV for real-time webcam inference", 
+                "Performed image-based prediction testing", 
+                "Optimized model for accurate mask detection" 
+            ], 
+            "links": { 
+                "github": "https://github.com/Shivam3804/MASK_DETECTION_USING_YOLOv8", 
+                "demo": null, 
+                "report": null 
+            }, 
+            "deployment": { 
+                "frontend": null, 
+                "backend": null, 
+                "database": null, 
+                "hosting": null 
+            } 
+        }, 
+        { 
+            "id": "resume", 
+            "featured": false, 
+            "name": "Resume Skills Extractor and Ranker", 
+            "category": "NLP / Web Application", 
+            "status": "Completed", 
+            "skills_stack": [ 
+                "Python", 
+                "Flask", 
+                "PyMuPDF", 
+                "Text Analysis" 
+            ], 
+            "description": "Developed a Flask-based application to extract skills from resumes and rank candidates based on job description relevance.", 
+            "features": [ 
+                "Resume parsing", 
+                "Skill extraction", 
+                "Resume ranking", 
+                "Multiple file upload support" 
+            ], 
+            "dataset": null, 
+            "metrics": null, 
+            "details": [ 
+                "Extracted resume text using PyMuPDF", 
+                "Implemented keyword-based matching and scoring logic", 
+                "Ranked resumes against job descriptions", 
+                "Built a simple web interface for uploading and evaluating resumes" 
+            ], 
+            "links": { 
+                "github": "https://github.com/Shivam3804/RESUME_SKILLS_RANKER", 
+                "demo": null, 
+                "report": null 
+            }, 
+            "deployment": { 
+                "frontend": null, 
+                "backend": null, 
+                "database": null, 
+                "hosting": null 
+            } 
+        }, 
+        { 
+            "id": "mnist", 
+            "featured": false, 
+            "name": "MNIST Digit Classifier", 
+            "category": "Deep Learning", 
+            "status": "Completed", 
+            "skills_stack": [ 
+                "Python", 
+                "TensorFlow", 
+                "Keras", 
+                "Deep Learning" 
+            ], 
+            "description": "Built neural network models for handwritten digit and fashion item classification using MNIST datasets.", 
+            "features": [ 
+                "Digit classification", 
+                "Fashion item recognition", 
+                "CNN and ANN implementation", 
+                "Training visualization" 
+            ],
+            "dataset": [ 
+                "MNIST", 
+                "Fashion-MNIST"
+            ], 
+            "metrics": [ 
+                { 
+                    "name": "mnist_accuracy", 
+                    "value": "98.2%" 
+                }, 
+                { 
+                    "name": "fashion_mnist_accuracy", 
+                    "value": "90.9%" 
+                } 
+            ], 
+            "details": [ 
+                "Implemented Feedforward Neural Networks and CNN architectures", 
+                "Reduced overfitting through hyperparameter tuning", 
+                "Monitored training and validation loss curves", 
+                "Improved generalization using optimized batch size and learning rate" 
+            ], 
+            "links": { 
+                "github": "https://github.com/Shivam3804/MNIST_Classification", 
+                "demo": null, 
+                "report": null 
+            }, 
+            "deployment": { 
+                "frontend": null, 
+                "backend": null, 
+                "database": null, 
+                "hosting": null 
+            } 
+        } 
+    ], 
+    "certificates":[ 
+        { 
+            "title": "Introduction to Machine Learning", 
+            "issuer":"NPTEL (IIT Madras)", 
+            "year": 2025, 
+            "score-type": "Percentage", 
+            "score": 77, 
+            "link": null 
+        }, 
+        { 
+            "title": "SQL and Relational Databases 101", 
+            "issuer":"CognitiveAI - IBM", 
+            "year":2025, 
+            "score-type": null, 
+            "score":null, 
+            "link": "https://courses.cognitiveclass.ai/certificates/17340722aaec427b94cb7492048380af" 
+        }, 
+        { 
+            "title": "Machine Learning with Python", 
+            "issuer": "CognitiveAI - IBM", 
+            "year":2025, 
+            "score-type": null, 
+            "score":null, 
+            "link": "https://courses.cognitiveclass.ai/certificates/dfc6466067c44139ac05e6dc4974ae0c" 
+        }, 
+        { 
+            "title": "Python 101 for Data Science", 
+            "issuer": "CognitiveAI - IBM", 
+            "year": 2025, 
+            "score-type": null, 
+            "score": null, 
+            "link": "https://courses.cognitiveclass.ai/certificates/e816fcf702904dbf959938c73dd24519" 
+        }, 
+        { 
+            "title": "Pattern Recognition and Application", 
+            "issuer": "NPTEL (IIT Kharagpur)", 
+            "year": 2024, 
+            "score-type": "Percentage", 
+            "score": 58, 
+            "link": "https://drive.google.com/file/d/1MP_VYtlM4yiOcFS1ByZGCrHNRtjGHJ8C/view?usp=sharing" 
+        } 
+    ], 
+    "achievements":[ 
+        { 
+            "title": "Qualified GATE DA 2026 - Score: 486 ", 
+            "event": "Graduate Aptitude Test in Engineering", 
+            "type": "exam", 
+            "featured": true, 
+            "organizer": "IIT Guwahati", 
+            "year": 2025 
+        }, 
+        { 
+            "title": "Presented research paper for UrbanFix Project", 
+            "event": "ICIA-MET'26", 
+            "type": "research", 
+            "featured":true, 
+            "organizer": "MET's Institute of Engineering, Nashik", 
+            "year": 2026 
+        }, 
+        { 
+            "title": "Won Avishkar Poster Competition", 
+            "event": "College Level Avishkar Poster Competition", 
+            "organizer": "MET's Institute of Engineering, Nashik", 
+            "type": "competition", 
+            "featured": false, 
+            "year": 2025 
+        }, 
+        { 
+            "title": "Top 2% Rank Holder + ELITE + Silver ", 
+            "event": "NPTEL Certification (Introduction to Machine Learning)", 
+            "organizer": "NPTEL", 
+            "type":"exam", 
+            "featured": true, 
+            "year": 2025 
+        }, 
+        { 
+            "title": "Qualified GATE DA 2025 - Score: 327 ", 
+            "event": "Graduate Aptitude Test in Engineering", 
+            "organizer": "IIT Roorkee", 
+            "type":"exam", 
+            "featured": false, 
+            "year": 2025 
+        } 
+    ], 
+    "coding_profiles": { 
+        "leetcode": null, 
+        "geeksforgeeks": null, 
+        "codechef": null, 
+        "hackerrank": null 
+    }, 
+    "currently_learning":[ 
+        "Agentic AI", 
+        "Advanced RAG Pipelines", 
+        "System Architectures", 
+        "Linux" 
+    ], 
+    "paper_publications": [], 
+    "resume": { 
+        "location": "Resources/SHIVAM_PATIL.pdf", 
+        "updated": false 
+    } 
+}
